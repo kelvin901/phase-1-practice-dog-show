@@ -1,0 +1,20 @@
+{
+  "name": "phase-1-practice-dog-show",
+  "version": "1.0.0",
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelvin901/phase-1-practice-dog-show.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kelvin901/phase-1-practice-dog-show/issues"
+  },
+  "homepage": "https://github.com/kelvin901/phase-1-practice-dog-show#readme"
+}
